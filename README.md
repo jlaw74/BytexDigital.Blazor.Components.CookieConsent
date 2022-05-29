@@ -12,9 +12,9 @@
 <br />
 
 ## How to install
-```ps1
-~~Install-Package BytexDigital.Blazor.Components.CookieConsent~~
-```
+~~```ps1
+Install-Package BytexDigital.Blazor.Components.CookieConsent
+```~~
 ```ps1
 This version must be built and used as a reference at this time.
 ```
